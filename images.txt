@@ -8,5 +8,6 @@ python:3.10
 python:3.11
 redis:latest
 busybox:latest
+windows:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
